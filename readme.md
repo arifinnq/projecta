@@ -34,3 +34,18 @@ function helloWorld() {
 // Menjalankan fungsi helloWorld
 helloWorld();
 ```
+
+#golang
+
+**bold**
+
+*miring*
+
+***bolod miring***
+
+
+| Nama | Kelas | Umur |
+|:---|:---:|---:|
+| Ali | 10 | 10 |
+| Siti | 12 | 12 |
+
